@@ -1,0 +1,31 @@
+DIR
+11
+4 CostoCoodNess TiempoGoodNess TiempoEvil GananciaEvil
+V1 0 0 0 0
+V2 0 0 0 0
+V3 0 0 0 0
+V4 0 0 0 0
+V5 0 0 0 0
+V6 0 0 0 0
+V7 0 0 0 0
+V8 0 0 0 0
+V9 0 0 0 0
+V10 0 0 0 0
+V11 0 0 0 0
+15
+4 CostoCoodNess TiempoGoodNess TiempoEvil GananciaEvil
+L1 V1 V2 1 1 1 1
+L2 V1 V3 2 2 2 2
+L3 V3 V3 1 1 1 1
+L4 V3 V5 5 5 5 5
+L5 V5 V6 0 0 0 0
+L6 V5 V4 1 1 1 1
+L7 V2 V4 3 3 3 3
+L8 V4 V7 4 4 4 4
+L9 V7 V6 1 1 1 1
+L10 V8 V9 1 1 1 1
+L11 V9 V11 3 3 3 3
+L14 V11 V11 2 2 2 2
+L12 V8 V10 2 2 2 2
+L13 V10 V11 1 1 1 1
+L15 V10 V9 1 1 1 1
