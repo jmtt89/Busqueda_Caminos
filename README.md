@@ -64,6 +64,6 @@ lo dividimos entre mil y ya esta el tiempo en segundos
 
 Extra: 
 
-Para realizar las pruebas se desarrollo un Generador de Grafos, para mas informacion sobre este revisar el Readme en su carpeta
+Para realizar las pruebas se desarrollo un Generador de Grafos, para mas informacion sobre este revisar el Readme en Creador_Grafo_Automatico
 
 Algunos Archivos de Prueba se encuentran en la Carpeta Test
