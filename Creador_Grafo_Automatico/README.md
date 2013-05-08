@@ -2,8 +2,8 @@ Creador Grado Automatico
 ===================
 
 Integrantes:
-	Jesus Torres
-	
+
+	Jesus Torres	
 	Christian Socorro
 
 *******************
