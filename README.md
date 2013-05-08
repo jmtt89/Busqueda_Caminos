@@ -2,8 +2,8 @@ Busqueda De Caminos
 ===================
 
 Integrantes:
+
 	Jesus Torres
-	
 	Christian Socorro
 
 *******************
